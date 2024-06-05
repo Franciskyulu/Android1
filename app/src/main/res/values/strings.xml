@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android1</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_commerce">CommerceActivity</string>
+    <string name="title_activity_ecommerce2">EcommerceActivity2</string>
+    <string name="title_activity_bars">BarsActivity</string>
+    <string name="title_activity_password_recovery">PasswordRecoveryActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_work">WorkActivity</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443887719512",
+    "project_id": "android1-75b22",
+    "storage_bucket": "android1-75b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443887719512:android:012d3d9728ebf28ad1e62d",
+        "android_client_info": {
+          "package_name": "com.jayson.android1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbSsUCSMoYsssJ021_spKTFfZ4IEQEVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
